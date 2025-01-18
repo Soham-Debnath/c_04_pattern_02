@@ -1,1 +1,1 @@
-# Pattern printing part - 2.
+# Pattern printing (part - 2).
