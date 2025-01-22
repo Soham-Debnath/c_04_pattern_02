@@ -1,1 +1,1 @@
-# Pattern printing in C (part-2).
+# Pattern printing in C language (part-2).
